@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+}
+h1{
+  background-color: #11e8ab;
+  color: white;
+  height: 50px;
+  padding-left: 20px;
+  padding-top: 30px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+h3{
+    
+    text-align: center;
+    font-size: 30px;
+
+}
+.dog1{
+    padding-left: 100px;
+}
+figure caption{
+    text-align: center;
+    font-size: 40px;
+    padding: 5px;
+}
+
+figure{
+    border: 1px solid black;
+    background-color: #fff;
+    width: 300px;
+    margin:15px auto;
+    text-align: center;
+}
+figure img{
+    width: 300px;
+   
+}
+
+footer{
+    background-color: #11e8ab;
+    text-align: center;
+    padding: 10px;
+    height: 50px;
+    
+}
+figcaption{
+    font-size: 40px;
+}
+.fot{
+    font-size: 23px;
+    text-align: center;
+}
